@@ -10,5 +10,5 @@
   - Statistics shown in the form of graph.
 
 
-![alt text](![Screenshot from 2023-02-20 12-39-42](https://user-images.githubusercontent.com/89011589/220037591-5a11aaee-ac75-4285-be93-bfaa5637212a.png)
-)
+![Screenshot from 2023-02-20 12-39-42](https://user-images.githubusercontent.com/89011589/220037591-5a11aaee-ac75-4285-be93-bfaa5637212a.png)
+
